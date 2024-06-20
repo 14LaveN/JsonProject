@@ -1,0 +1,17 @@
+G:\DotNetProjects\14LaveN.JsonProject\JsonProject.Application\bin\Debug\net8.0\JsonProject.Application.deps.json
+G:\DotNetProjects\14LaveN.JsonProject\JsonProject.Application\bin\Debug\net8.0\JsonProject.Application.dll
+G:\DotNetProjects\14LaveN.JsonProject\JsonProject.Application\bin\Debug\net8.0\JsonProject.Application.pdb
+G:\DotNetProjects\14LaveN.JsonProject\JsonProject.Application\bin\Debug\net8.0\JsonProject.Domain.dll
+G:\DotNetProjects\14LaveN.JsonProject\JsonProject.Application\bin\Debug\net8.0\JsonProject.Domain.pdb
+G:\DotNetProjects\14LaveN.JsonProject\JsonProject.Application\obj\Debug\net8.0\JsonProject.Application.csproj.AssemblyReference.cache
+G:\DotNetProjects\14LaveN.JsonProject\JsonProject.Application\obj\Debug\net8.0\JsonProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\DotNetProjects\14LaveN.JsonProject\JsonProject.Application\obj\Debug\net8.0\JsonProject.Application.AssemblyInfoInputs.cache
+G:\DotNetProjects\14LaveN.JsonProject\JsonProject.Application\obj\Debug\net8.0\JsonProject.Application.AssemblyInfo.cs
+G:\DotNetProjects\14LaveN.JsonProject\JsonProject.Application\obj\Debug\net8.0\JsonProject.Application.csproj.CoreCompileInputs.cache
+G:\DotNetProjects\14LaveN.JsonProject\JsonProject.Application\obj\Debug\net8.0\JsonProject.Application.csproj.CopyComplete
+G:\DotNetProjects\14LaveN.JsonProject\JsonProject.Application\obj\Debug\net8.0\JsonProject.Application.dll
+G:\DotNetProjects\14LaveN.JsonProject\JsonProject.Application\obj\Debug\net8.0\refint\JsonProject.Application.dll
+G:\DotNetProjects\14LaveN.JsonProject\JsonProject.Application\obj\Debug\net8.0\JsonProject.Application.pdb
+G:\DotNetProjects\14LaveN.JsonProject\JsonProject.Application\obj\Debug\net8.0\ref\JsonProject.Application.dll
+G:\DotNetProjects\14LaveN.JsonProject\JsonProject.Application\bin\Debug\net8.0\testhost.exe
+G:\DotNetProjects\14LaveN.JsonProject\JsonProject.Application\bin\Debug\net8.0\testhost.dll

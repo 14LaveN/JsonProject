@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonProject", "JsonProject\JsonProject.csproj", "{CD2F36FF-3E9D-47C2-B60C-00F9BD817108}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{079ABC13-35C9-4908-ADF1-CB281D48024E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{1CA4995B-F35D-46E3-A41A-530A852EA8CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{113451A0-FE71-4C82-9E08-3CAD3E961EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonProject.Domain", "JsonProject.Domain\JsonProject.Domain.csproj", "{F8EBC8E2-EDFC-4FE8-B40E-B03C96E5ED36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonProject.Infrastructure", "JsonProject.Infrastructure\JsonProject.Infrastructure.csproj", "{DF7BA9AB-49CE-4449-97FB-AC6BA42C75F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonProject.Application", "JsonProject.Application\JsonProject.Application.csproj", "{CF59A6C7-10E9-4246-B3A7-CC4E5C56B0A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonProject.Presentation", "JsonProject.Presentation\JsonProject.Presentation.csproj", "{1FD7DC4B-C3E0-4382-A0EE-7740D0435CCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonProject.Tests", "JsonProject.Tests\JsonProject.Tests.csproj", "{7658AA6A-3F0B-47B4-9047-29BCA4114E0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD2F36FF-3E9D-47C2-B60C-00F9BD817108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2F36FF-3E9D-47C2-B60C-00F9BD817108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2F36FF-3E9D-47C2-B60C-00F9BD817108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2F36FF-3E9D-47C2-B60C-00F9BD817108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8EBC8E2-EDFC-4FE8-B40E-B03C96E5ED36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EBC8E2-EDFC-4FE8-B40E-B03C96E5ED36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8EBC8E2-EDFC-4FE8-B40E-B03C96E5ED36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8EBC8E2-EDFC-4FE8-B40E-B03C96E5ED36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7BA9AB-49CE-4449-97FB-AC6BA42C75F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7BA9AB-49CE-4449-97FB-AC6BA42C75F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7BA9AB-49CE-4449-97FB-AC6BA42C75F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7BA9AB-49CE-4449-97FB-AC6BA42C75F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF59A6C7-10E9-4246-B3A7-CC4E5C56B0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF59A6C7-10E9-4246-B3A7-CC4E5C56B0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF59A6C7-10E9-4246-B3A7-CC4E5C56B0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF59A6C7-10E9-4246-B3A7-CC4E5C56B0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD7DC4B-C3E0-4382-A0EE-7740D0435CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD7DC4B-C3E0-4382-A0EE-7740D0435CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD7DC4B-C3E0-4382-A0EE-7740D0435CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD7DC4B-C3E0-4382-A0EE-7740D0435CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7658AA6A-3F0B-47B4-9047-29BCA4114E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7658AA6A-3F0B-47B4-9047-29BCA4114E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7658AA6A-3F0B-47B4-9047-29BCA4114E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7658AA6A-3F0B-47B4-9047-29BCA4114E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD2F36FF-3E9D-47C2-B60C-00F9BD817108} = {079ABC13-35C9-4908-ADF1-CB281D48024E}
+		{F8EBC8E2-EDFC-4FE8-B40E-B03C96E5ED36} = {1CA4995B-F35D-46E3-A41A-530A852EA8CE}
+		{DF7BA9AB-49CE-4449-97FB-AC6BA42C75F3} = {1CA4995B-F35D-46E3-A41A-530A852EA8CE}
+		{CF59A6C7-10E9-4246-B3A7-CC4E5C56B0A8} = {1CA4995B-F35D-46E3-A41A-530A852EA8CE}
+		{1FD7DC4B-C3E0-4382-A0EE-7740D0435CCC} = {1CA4995B-F35D-46E3-A41A-530A852EA8CE}
+		{7658AA6A-3F0B-47B4-9047-29BCA4114E0D} = {113451A0-FE71-4C82-9E08-3CAD3E961EFE}
+	EndGlobalSection
+EndGlobal
